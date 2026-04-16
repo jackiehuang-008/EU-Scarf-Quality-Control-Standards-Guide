@@ -1,0 +1,443 @@
+# EU Scarf Quality Control & Compliance Handbook for Exporters  
+## 2026 Reference Edition for Scarves, Shawls, Wraps, and Neck Warmers
+
+> **Scope:** This handbook applies to knitted and woven scarves, shawls, wraps, mufflers, and similar accessories intended for export to the European Union.  
+> **Update Basis:** Compiled according to current EU regulations and commonly adopted commercial quality standards as of **April 2026**.  
+> **Prepared by:** **Weave Essence Technical Team**
+
+---
+
+## Executive Summary
+
+If you export scarves to the EU, the real risk is rarely just appearance. Most shipment problems happen in four places: **labeling**, **restricted substances**, **color fastness**, and **physical durability**. A scarf may look acceptable on the inspection table and still fail in the market because the pH is out of range, the azo dye test is positive, the pilling result drops below buyer expectation, or the care label is incomplete.
+
+This handbook is built to be practical. You can use it as:
+
+- a **factory QC inspection reference**
+- a **supplier briefing document**
+- an **attachment to purchase contracts**
+- a **pre-shipment compliance checklist**
+- an **internal sourcing and technical review guide**
+
+The goal is simple: help manufacturers, sourcing teams, importers, and brand owners reduce compliance surprises before goods reach the EU border.
+
+---
+
+## Table of Contents
+
+1. [How to Use This Handbook](#how-to-use-this-handbook)  
+2. [Core Compliance Risks for EU Scarf Exports](#core-compliance-risks-for-eu-scarf-exports)  
+3. [Chemical and Physical Safety Standards](#chemical-and-physical-safety-standards)  
+4. [Color Fastness Standards](#color-fastness-standards)  
+5. [Physical Performance Standards](#physical-performance-standards)  
+6. [General Safety Requirements Under GPSR](#general-safety-requirements-under-gpsr)  
+7. [Labeling and Product Information Requirements](#labeling-and-product-information-requirements)  
+8. [REACH Restricted Substances Quick Reference](#reach-restricted-substances-quick-reference)  
+9. [OEKO-TEX Standard 100 Product Class Reference](#oeko-tex-standard-100-product-class-reference)  
+10. [Common Quality Problems and Rejection Thresholds](#common-quality-problems-and-rejection-thresholds)  
+11. [Recommended Testing Frequency](#recommended-testing-frequency)  
+12. [QC Workflow Before Shipment](#qc-workflow-before-shipment)  
+13. [Quick Reference Standard Index](#quick-reference-standard-index)  
+14. [Glossary of Key Terms](#glossary-of-key-terms)  
+15. [Disclaimer](#disclaimer)
+
+---
+
+## How to Use This Handbook
+
+This document is not written as a legal memo. It is meant to sit between the factory floor and the sourcing office.
+
+### Recommended use by role
+
+**For factories**
+- Use it during sampling approval
+- Align internal QC and lab testing checkpoints
+- Confirm which items need third-party testing before shipment
+
+**For sourcing teams**
+- Use it to compare suppliers
+- Add the relevant sections into purchase agreements
+- Confirm whether technical claims match actual test requirements
+
+**For importers and brand owners**
+- Use it to define acceptance criteria
+- Review product risk by fabric type, trim type, and target consumer
+- Reduce disputes caused by vague specifications
+
+### Best practice
+
+Do not treat this handbook as a substitute for product-specific testing.  
+Acrylic promotional scarves, cashmere-blend fashion scarves, brushed winter wraps, and children’s neck accessories do not carry the same risk profile. The technical standard may be the same, but the commercial tolerance is often different.
+
+---
+
+## Core Compliance Risks for EU Scarf Exports
+
+Before jumping into the tables, it helps to understand where exporters usually get caught off guard.
+
+### 1. Labeling errors are still one of the easiest ways to lose a shipment
+A scarf can pass laboratory testing and still create trouble if:
+- the fiber composition is declared incorrectly
+- the care label is incomplete
+- the origin marking is missing
+- traceability information cannot be tied back to the batch
+
+### 2. Restricted substances are often hidden in trims and finishes, not the base fabric
+Buyers sometimes focus only on the scarf body, but risk can sit in:
+- printed areas
+- waterproof finishes
+- metallic ornaments
+- plastic decorations
+- packaging inserts
+
+### 3. Pilling is where commercial expectations often diverge from lab reality
+A mass-market buyer may accept **Grade 3**, while a premium retailer may expect **Grade 4** at the same test cycle count. If the required level is not written into the tech pack early, disputes are almost guaranteed.
+
+### 4. Dark shades create a disproportionate amount of color fastness complaints
+Black, navy, burgundy, bottle green, and saturated red continue to be high-risk shades for:
+- wet crocking
+- perspiration staining
+- wash bleeding
+
+### 5. Children’s products require a completely different risk lens
+The moment a scarf is sold for infants or young children, you are no longer just checking softness and warmth. You are checking:
+- drawcord risk
+- small parts risk
+- saliva migration
+- tighter chemical limits
+- stricter labeling expectations
+
+---
+
+## Chemical and Physical Safety Standards
+
+The table below covers the most common chemical and safety-related checks relevant to EU scarf exports.
+
+| Test Item | Test Method | Minimum EU Market Requirement | Notes |
+|---|---|---|---|
+| **Fiber Composition** | ISO 1833 (chemical dissolution) | Difference between label claim and test result ≤ 3% | Single-fiber products: 0% tolerance; blends: ±3% |
+| **pH Value** | ISO 3071 | 4.0–7.5 for products in direct skin contact | Baby products (Class I): 4.0–7.0 |
+| **Formaldehyde Content** | ISO 14184-1 | ≤ 75 mg/kg for direct skin contact | Baby products: ≤ 20 mg/kg |
+| **Azo Dyes / Released Aromatic Amines** | ISO 14362-1 | Not detectable (detection limit: 20 mg/kg) | REACH Annex XVII Entry 43 |
+| **Nickel Release** | EN 1811 | < 0.5 μg/cm²/week | Relevant only for metallic components |
+| **Hexavalent Chromium (Cr VI)** | ISO 17075 | ≤ 3 mg/kg | Mainly relevant to leather parts and trims |
+| **PFAS** | CEN/TS 15968 | Total < 100 μg/m² | Requirements tightened significantly after 2025 |
+| **Phthalates** | ISO 14389 | DEHP + DBP + BBP ≤ 0.1% | Relevant for plastics, prints, coatings |
+
+### Technical note
+
+In actual scarf production, the highest chemical risk does not always come from the yarn. It often comes from:
+- after-treatment chemicals
+- coatings
+- decorative attachments
+- packaging contamination
+
+That is why a supplier declaration alone is not enough when product risk is high.
+
+---
+
+## Color Fastness Standards
+
+Color fastness is one of the most commercially sensitive parts of scarf QC because it directly affects wear experience and returns.
+
+| Test Item | Test Method | Minimum EU Market Requirement | Common Commercial Target |
+|---|---|---|---|
+| **Dry Rubbing Fastness** | ISO 105-X12 | ≥ Grade 4 | Dark shades may be accepted at Grade 3–4 |
+| **Wet Rubbing Fastness** | ISO 105-X12 | ≥ Grade 3 | Dark navy / black should still achieve ≥ Grade 3 |
+| **Water Fastness** | ISO 105-E01 | ≥ Grade 3–4 (staining) | Color change should be ≥ Grade 4 |
+| **Perspiration Fastness** | ISO 105-E04 | ≥ Grade 3–4 (staining) | Both acidic and alkaline perspiration tested |
+| **Wash Fastness** | ISO 105-C06 | ≥ Grade 4 (color change) | Based on 40°C wash program |
+| **Light Fastness** | ISO 105-B02 | ≥ Grade 4 | Light shades may be accepted at ≥ Grade 3 |
+| **Saliva Fastness** | EN 71-3 | Migration limits apply | Relevant for baby/children’s products |
+
+### Commercial interpretation
+
+A scarf may technically pass minimum requirements and still be rejected by a buyer if the color performance does not match the product’s price level.
+
+**Typical market expectation by tier:**
+- **Promotional / mass market:** minimum pass level
+- **Mid-market retail:** stable commercial performance, fewer edge cases
+- **Premium / fashion brand:** higher tolerance control, especially on dark shades and skin-contact products
+
+---
+
+## Physical Performance Standards
+
+Physical performance is where a scarf stops being just a “textile” and starts behaving like a commercial product.
+
+| Test Item | Test Method | Minimum EU Market Requirement | Notes |
+|---|---|---|---|
+| **Pilling** | ISO 12945-2 (Martindale) | ≥ Grade 3 at 2000 cycles | General market |
+|  |  | ≥ Grade 4 at 2000 cycles | Mid-to-high-end market |
+| **Dimensional Stability / Shrinkage** | ISO 6330 + ISO 3759 | ≤ ±3% in length | Based on care instructions |
+|  |  | ≤ ±5% in width | Knits may allow slightly wider tolerance |
+| **Tensile Strength** | ISO 13934-1 | ≥ 150 N | Typical for woven scarves |
+| **Bursting Strength** | ISO 13938-2 | ≥ 100 kPa | Typical for knitted scarves |
+| **Seam Slippage** | ISO 13936-2 | ≤ 6 mm | For sewn areas |
+| **Skew / Distortion** | AATCC 179 | ≤ 3% | Common concern for woven prints |
+| **Edge Curling** | Visual + measurement | Edge lift after flat lay ≤ 1.5 cm | Common in knitted styles |
+
+### Why this matters commercially
+
+A scarf is a relatively simple product, which is exactly why buyers expect fewer excuses.  
+If pilling is bad, if shrinkage is unstable, or if edge curl ruins presentation, the product immediately feels cheap — no matter how good the yarn claim sounds on paper.
+
+---
+
+## General Safety Requirements Under GPSR
+
+The General Product Safety Regulation (EU 2023/988) creates a wider safety framework for consumer products sold in the EU. Scarves are not exempt just because they are “soft goods.”
+
+| Item | Standard / Regulation | Requirement | Applicable Products |
+|---|---|---|---|
+| **Small Parts Safety** | EN 71-1 | No detachable parts that can be swallowed by children | Beads, sequins, buttons |
+| **Drawstrings and Cords** | EN 14682:2014 | Prohibited in head/neck area for young children; waist/bottom exposed length ≤ 14 cm | Children’s scarves/accessories |
+| **Flammability** | EN 14878 or 16 CFR 1610 | Burning rate ≤ 100 mm/s | All scarves; brushed/plush fabrics require attention |
+| **Sharp Edges / Points** | EN 71-1 | No exposed sharp edges | Metal trims, zipper pullers |
+| **Plastic Packaging Bags** | EN 71-1 | Thickness ≥ 0.038 mm or perforated | To reduce suffocation risk |
+
+### Practical warning
+
+The neck area is already a high-sensitivity zone from a product safety point of view.  
+If you are producing for children, never assume that normal adult scarf design logic can simply be downsized.
+
+---
+
+## Labeling and Product Information Requirements
+
+This is one of the most overlooked areas in scarf exports.
+
+| Item | Legal Basis | Requirement |
+|---|---|---|
+| **Fiber Content Label** | EU Regulation 1007/2011 | Fibers listed in descending order by weight; ≤ 5% may be labeled as “other fibers” |
+| **Country of Origin** | EU Customs Code | “Made in China” or “Product of China” |
+| **Care Label** | ISO 3758 | Standard textile care symbols in fixed sequence |
+| **Manufacturer / Importer Information** | GPSR Article 19 | Name, registered trade name/trademark, postal address, electronic contact address |
+| **Traceability Code** | GPSR Article 22 | Batch number, model number, or serial identifier |
+| **Warnings / Safety Information** | GPSR Annex I | Included where relevant, such as “Keep away from fire” |
+
+### Why labeling still causes shipment disputes
+
+Factories often assume the product is “fine” if the fabric passes testing.  
+But from the importer’s side, a wrong fiber declaration or incomplete traceability mark is not a minor typo — it is a compliance exposure.
+
+---
+
+## REACH Restricted Substances Quick Reference
+
+Below is a practical quick reference focused on substances that show up frequently in scarf-related supply chains.
+
+| Substance / Group | Limit Requirement | Common Source |
+|---|---|---|
+| **DMF (Dimethyl Fumarate)** | ≤ 0.1 mg/kg | Anti-mold sachets, packaging inserts |
+| **Phenol** | ≤ 50 mg/kg | Antibacterial finishes, packaging materials |
+| **NPEO / NP** | ≤ 100 mg/kg | Detergents, dyeing auxiliaries |
+| **Antimony** | ≤ 30 mg/kg in PET materials | Polyester catalyst residue |
+| **SCCP / MCCP** | ≤ 0.15% | Flame-retardant finishes, coatings |
+| **PFOA** | ≤ 0.025 mg/kg | Water-repellent finishes |
+| **Lead** | ≤ 100 mg/kg in coatings/substrates | Pigments, stabilizers |
+| **Cadmium** | ≤ 1.0 mg/kg in plastics/coatings | Pigments, stabilizers |
+
+> **Important:** The REACH SVHC candidate list continues to grow and now includes more than **240 substances**. Suppliers should provide a current **RSL declaration of conformity**.
+
+### Sourcing note
+
+If a scarf includes:
+- waterproof treatment
+- foil print
+- rubber print
+- PU patch
+- decorative plastic parts
+- unusual packaging inserts
+
+then the restricted substance review should be stricter from day one.
+
+---
+
+## OEKO-TEX Standard 100 Product Class Reference
+
+OEKO-TEX is not an EU law, but it remains one of the most commercially useful third-party trust standards for scarf buyers.
+
+| Product Class | Typical Scarf Type | Key Limit Differences vs Class II |
+|---|---|---|
+| **Class I (Baby)** | Infant scarves and 0–3 years accessories | Formaldehyde ≤ 16 mg/kg; pH 4.0–7.0 |
+| **Class II (Direct Skin Contact)** | Adult scarves, shawls, wraps | Formaldehyde ≤ 75 mg/kg; pH 4.0–7.5 |
+| **Class III (Non-direct Skin Contact)** | Heavy winter scarves worn over outerwear | Formaldehyde ≤ 150 mg/kg |
+| **Class IV (Decoration)** | Decorative textile accessories | Formaldehyde ≤ 300 mg/kg |
+
+### Commercial use
+
+For most adult scarves, **Class II** is the most relevant benchmark.  
+If you are selling to fashion brands, department stores, or premium retailers, buyers often expect OEKO-TEX alignment even when they do not explicitly ask for the certificate upfront.
+
+---
+
+## Common Quality Problems and Rejection Thresholds
+
+The following table translates technical issues into practical shipment risk.
+
+| Issue Type | Description | AQL 2.5 Treatment |
+|---|---|---|
+| **Fiber Content Mismatch** | Claimed cashmere or fiber content short by more than 3% | Critical defect; zero tolerance |
+| **Color Variation** | ΔE > 3.0 against approved bulk standard | Major defect |
+| **Severe Pilling** | ISO 12945-2 result below Grade 3 | Major defect |
+| **Excessive Shrinkage** | Length shrinkage > 5% | Major defect |
+| **Holes / Snags** | Any visible hole or long snag | Critical defect |
+| **Stains / Oil Marks** | Visible and not removable | Major defect |
+| **Odor** | Mold, chemical, fishy, or abnormal odor | Critical defect |
+| **Labeling Errors** | Missing or incorrect fiber, origin, or care information | Major defect |
+| **Fringe Shedding** | More than 5 yarns released after hand-combing 3 times | Major defect |
+
+### Factory-side interpretation
+
+These are not just “technical defects.”  
+Each one ties directly to one of three commercial outcomes:
+- customs/compliance trouble
+- buyer rejection
+- after-sales return risk
+
+---
+
+## Recommended Testing Frequency
+
+A scarf exporter does not need to test everything on every unit, but testing frequency must be structured.
+
+| Test Type | Recommended Frequency | Notes |
+|---|---|---|
+| **Fiber Composition** | Once per order and color | Third-party laboratory strongly recommended |
+| **Color Fastness** | Once per order and color | Internal pre-check plus third-party pre-shipment check |
+| **Pilling / Shrinkage** | Once per fabric type per order | Confirm after PP sample or bulk fabric approval |
+| **REACH SVHC** | Once per year or per supplier | Prioritize dark shades, coatings, water-repellent styles |
+| **EN 14682** | Once per style and size range | Third-party report required |
+| **Flammability** | Once per fabric type | Especially for plush, brushed, or raised surfaces |
+
+### Minimum control logic
+
+If budget is limited, do not reduce testing randomly.  
+Prioritize according to product risk:
+1. children’s products  
+2. dark shades  
+3. coated or finished fabrics  
+4. brushed or fluffy fabrics  
+5. styles with trims or metal parts
+
+---
+
+## QC Workflow Before Shipment
+
+This is the part many teams actually need.
+
+### Step 1: Confirm the approved reference
+Before bulk inspection starts, confirm:
+- approved bulk standard swatch
+- approved care label artwork
+- approved fiber composition statement
+- approved trim and packaging specification
+
+### Step 2: Check technical risk points by style
+Ask:
+- Is this product direct skin contact?
+- Is it for children?
+- Does it contain trims, coatings, metallic parts, or special finishes?
+- Does it require premium pilling performance?
+
+### Step 3: Review laboratory documents
+At minimum, verify:
+- fiber content test
+- color fastness tests
+- pilling / shrinkage results
+- chemical declarations or third-party reports where required
+
+### Step 4: Perform in-line and final QC
+Factory QC should confirm:
+- visible defects
+- label accuracy
+- odor
+- fringe condition
+- measurement stability
+- packing consistency
+
+### Step 5: Conduct pre-shipment document review
+Before goods leave, confirm:
+- carton marks
+- traceability code
+- import/manufacturer details
+- packing list consistency
+- test report validity
+
+### Step 6: Escalate any “almost pass” case
+Do not ship on assumptions.  
+If the test is borderline, the buyer should know before loading, not after arrival.
+
+---
+
+## Quick Reference Standard Index
+
+| Standard No. | Standard Name |
+|---|---|
+| ISO 1833 | Textiles — Quantitative Chemical Analysis |
+| ISO 3071 | Textiles — Determination of pH of Aqueous Extract |
+| ISO 14184-1 | Textiles — Determination of Formaldehyde |
+| ISO 14362-1 | Textiles — Detection of Certain Aromatic Amines Derived from Azo Colorants |
+| ISO 105-X12 | Textiles — Color Fastness to Rubbing |
+| ISO 105-C06 | Textiles — Color Fastness to Domestic and Commercial Laundering |
+| ISO 12945-2 | Textiles — Determination of Fabric Propensity to Surface Pilling Using Martindale |
+| ISO 6330 | Textiles — Domestic Washing and Drying Procedures |
+| EN 14682:2014 | Safety of Children’s Clothing — Cords and Drawstrings |
+| EN 14878 | Textiles — Burning Behaviour of Scarves |
+| EU Regulation 1007/2011 | Textile Fibre Names and Related Labeling |
+| REACH (EC 1907/2006) | Registration, Evaluation, Authorisation and Restriction of Chemicals |
+| GPSR (EU 2023/988) | General Product Safety Regulation |
+
+---
+
+## Glossary of Key Terms
+
+### AQL 2.5
+A commonly used acceptable quality level for inspection sampling. In practice, it defines the number of defects allowed before a lot is rejected.
+
+### Direct Skin Contact
+Products intended to sit directly against the skin for extended periods. These usually face tighter chemical and comfort-related expectations.
+
+### REACH
+The EU’s core framework for chemical registration, evaluation, authorization, and restriction. It affects dyes, finishes, trims, prints, coatings, and packaging-related materials.
+
+### SVHC
+Substances of Very High Concern under REACH. The candidate list is updated regularly and must be monitored over time.
+
+### Pilling
+The formation of small fiber balls on the fabric surface during wear or abrasion. One of the most common commercial complaints for scarves.
+
+### ΔE
+A numerical measurement of color difference. In QC practice, larger ΔE values indicate stronger visible deviation from approved standards.
+
+### OEKO-TEX Standard 100
+A third-party textile testing and certification scheme widely used by brands and importers to assess harmful substance limits.
+
+### Traceability Code
+A batch number, model number, or similar identifier used to connect finished goods to production and recall records.
+
+### Color Fastness
+The resistance of dyed fabric to rubbing, washing, perspiration, light, or water exposure without unacceptable staining or color change.
+
+---
+
+## Disclaimer
+
+This handbook is prepared for reference purposes only and reflects current EU regulations and widely used commercial quality benchmarks as of **April 2026**. Final compliance obligations may vary depending on:
+- product type
+- target consumer age
+- fabric construction
+- trim usage
+- importer-specific standards
+- latest regulatory updates
+
+For legal compliance and market entry decisions, always confirm the latest official text and testing requirements with an accredited laboratory or qualified regulatory specialist.
+
+---
+
+## Document Footer
+
+**Weave Essence**  
+**Scarf Manufacturing & Compliance Documentation**  
+For factory QC, sourcing control, and EU market export reference
